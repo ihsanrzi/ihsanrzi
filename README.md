@@ -1,6 +1,13 @@
 ## Hi, I'm Muhammad Ihsan Rizaldi 👋
 🎓 I am a 5th semester student in the Informatics Study Program  at PGRI University. 
 
+<div>
+	&nbsp &nbsp &nbsp
+	<a href="https://git.io/typing-svg" target="_blank">
+		<img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&color=58A6FF&vCenter=true&lines=ꦲꦥ꦳ꦿꦶꦗ꦳ꦭ꧀ꦪꦺꦴꦒꦶꦥꦿꦠꦩ;Interested+to+learn+about+new+things;Hunger+for+knowledge+and+experience;I+Design,+Develop,+and+Always+Learn;" alt="Typing SVG"/>
+	</a>
+</div>
+
 ## Languages :
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)   
