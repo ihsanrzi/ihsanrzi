@@ -1,7 +1,9 @@
 ## Hi, I'm Muhammad Ihsan Rizaldi 👋
 🎓 I am a 5th semester student in the Informatics Study Program  at PGRI University. 
 
-
+<a href=''>
+  <img src='./images/readmebox_tfkhdyt.svg' alt='tfkhdyt header' width='100%' />
+</a>
 ## tech stack  :
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
